@@ -1,0 +1,29 @@
+body {
+    background-color: #111;
+    color: white;
+    text-align: center;
+    font-family: Arial;
+    padding-top: 50px;
+}
+
+h1 {
+    color: red;
+    font-size: 50px;
+}
+
+p {
+    font-size: 22px;
+}
+
+button {
+    padding: 12px 24px;
+    font-size: 18px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+a {
+    color: orange;
+    font-size: 20px;
+}
